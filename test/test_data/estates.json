@@ -1,0 +1,18 @@
+[
+	{
+		"esta_id": 90,
+		"esta_approach": "Modernes Bürogebäude direkt neben Gemeinde und Feuerwehr. Parkuhr gibt Parkzettel für 30 Minuten kostenfrei aus.",
+		"esta_facility_manager": {
+			"facility_manager_name": "Kreuzer Frank",
+			"facility_manager_phone_number": "0172-6518814"
+		},
+		"esta_address": {
+			"address_street_name": "Bahnhofstr.",
+			"address_street_number": "20",
+			"address_zipcode": "82211",
+			"address_city": "Herrsching",
+			"address_country": "Deutschland",
+		},		
+		"esta_stakeholders": 90
+	}
+]

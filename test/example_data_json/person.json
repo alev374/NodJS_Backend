@@ -1,0 +1,98 @@
+[
+	{
+		"pers_firstname": "Max",
+		"pers_lastname": "Mustermann",
+		"pers_is_active":  true,
+		"pers_username": "mmax",
+		"pers_password": "123456789",
+		"pers_addresses": [
+			{
+				"address_street_name": "Teststr",
+				"address_street_number": "1",
+				"address_zipcode": "12345",
+				"address_city": "Teststadt",
+				"address_country": "Testland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "mmax@aufzugwaerter.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": ""
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "123456799",
+				"phone_type": "mobile"
+			}
+		],
+		"pers_scope": "manager"
+	},
+	{
+		"pers_firstname": "Sepp",
+		"pers_lastname": "Waerter",
+		"pers_is_active":  true,
+		"pers_username": "wsepp",
+		"pers_password": "123456789",
+		"pers_addresses": [
+			{
+				"address_street_name": "Teststr",
+				"address_street_number": "12",
+				"address_zipcode": "12345",
+				"address_city": "Teststadt",
+				"address_country": "Testland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "wsepp@aufzugwaerter.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": "15"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "123456799",
+				"phone_type": "mobile"
+			}
+		],
+		"pers_scope": "inspector"
+	},
+	{
+		"pers_firstname": "Manfred",
+		"pers_lastname": "Besitzer",
+		"pers_is_active":  true,
+		"pers_username": "bmani",
+		"pers_password": "123456789",
+		"pers_addresses": [
+			{
+				"address_street_name": "Herrenstr",
+				"address_street_number": "24",
+				"address_zipcode": "12345",
+				"address_city": "Teststadt",
+				"address_country": "Testland",
+				"address_type": "work"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "manni@superreich.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": "15"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "123456799",
+				"phone_type": "mobile"
+			}
+		],
+		"pers_scope": "owner"
+	}
+]

@@ -1,0 +1,50 @@
+{
+  "name": "aw_api",
+  "version": "0.5.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "node ./test/local_api_test.js",
+    "win_set_development": "$env:NODE_ENV=\"development\"",
+    "win_cmd_start": "set NODE_ENV=production&&nodemon server.js",
+    "win_plesk_test": "node ./test/plesk_api_test.js",
+    "plesk_init": "node ./db/utils/plesk_scripts/db_init.js",
+    "plesk_add_schema": "node ./db/utils/plesk_scripts/db_add_schema.js",
+    "plesk_add_test_data": "node ./test/plesk_api_test.js",
+    "plesk_drop_db": "/opt/plesk/node/7/bin/node ./db/utils/plesk_scripts/db_drop.js",
+    "plesk_update_schema": "node ./db/utils/plesk_scripts/db_update_schema.js",
+    "plesk_node_test": "/opt/plesk/node/7/bin/node ./db/utils/plesk_scripts/node_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://maximilian-lindsey@bitbucket.org/maximilian-lindsey/aw-api.git"
+  },
+  "author": "Maximilian Lindsey",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/maximilian-lindsey/aw-api#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.0",
+    "boom": "^4.3.1",
+    "glob": "^7.1.1",
+    "good": "^7.1.0",
+    "good-console": "^6.4.0",
+    "hal": "^0.1.0",
+    "hapi": "^16.1.1",
+    "hapi-auth-basic": "^4.2.0",
+    "hapi-auth-jwt2": "^7.2.4",
+    "hapi-cors-headers": "^1.0.3",
+    "inert": "^4.2.0",
+    "joi": "^10.4.1",
+    "jsonwebtoken": "^7.4.1",
+    "knex": "^0.13.0",
+    "later": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1",
+    "nodemailer": "^4.0.1",
+    "pdfmake": "^0.1.31",
+    "pg": "^6.1.5",
+    "requestify": "^0.2.5"
+  }
+}

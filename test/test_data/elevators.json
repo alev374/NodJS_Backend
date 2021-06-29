@@ -1,0 +1,31 @@
+[
+	{
+		"elev_id": 90,
+		"elev_serial_number": "350554",
+		"elev_barcode": "4000AW0090",
+		"elev_manufacturer": "Schindler",
+		"elev_build_year": "2001",
+		"elev_location": "Im Treppenhaus",
+		"elev_type": "Personen",
+		"elev_is_active": true,
+		"elev_emergency_information": {
+			"emergency_company": "Schindler",
+			"emergency_company_phone_number": "0800-8661100",
+			"emergency_exit_instructions": "Notöffnung der türen mit Dreikant",
+			"emergency_phone_number": "112"
+		},		
+		"elev_inspection_days": [
+			"2", 
+			"16", 
+			"Mo"
+		],
+		"pers_inspector_id": 9000,
+		"pers_substitute_id": 9004,
+		"esta_id": 90,
+		"chli_id": 4000,
+		"elev_checkpoints": [
+			"1200",
+			"1270"
+		]
+	}
+]

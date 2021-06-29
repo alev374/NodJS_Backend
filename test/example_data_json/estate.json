@@ -1,0 +1,20 @@
+{
+	"esta_approach": "",
+	"esta_facility_manager": {
+		"facility_manager_name": "Harry Handi",
+		"facility_manager_phone_number": "1256421"
+	},
+	"esta_address": {
+		"address_street_name": "Spasstr",
+		"address_street_number": "55 a)",
+		"address_zipcode": "45632",
+		"address_city": "Superstadt",
+		"address_country": "Testland",
+		"address_type": "home"
+	},
+	"esta_stakeholders": [
+		{
+			"pers_id": ""
+		}
+	]
+}

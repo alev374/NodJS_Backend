@@ -1,0 +1,3 @@
+-- SET TIMEZONE
+
+SET TIME ZONE 'Europe/Berlin';

@@ -1,0 +1,8 @@
+{
+	"chpo_headline": "Test Checkpoint",
+	"chpo_description": "Das ist ein Test Checkpoint",
+	"chpo_priority": 0,
+	"chpo_checklists": [{
+		"chli_id": ""
+	}]
+}

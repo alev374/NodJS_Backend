@@ -1,0 +1,25 @@
+{
+	"elev_serial_number": "123456",
+	"elev_barcode": "bar565622",
+	"elev_manufacturer": "Thyssen",
+	"elev_build_year": "2002",
+	"elev_location": "Treppenhaus",
+	"elev_type": "Personen",
+	"elev_is_active": true,
+	"elev_emergency_information": {
+		"emergency_company": "Rettung",
+		"emergency_company_phone_number": "1562314",
+		"emergency_exit_instructions": "bla bla",
+		"emergency_phone_number": "112"
+	},
+	"elev_inspection_days": [
+		"25"
+	],
+	"pers_inspector_id": "q7n92lf60yLE3IuhHPZQ9SrkbtwbJOkHyAz",
+	"pers_substitute_id": "",
+	"esta_id": "",
+	"chli_id": "",
+	"elev_checkpoints": [{
+		
+	}]
+}

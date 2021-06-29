@@ -1,0 +1,226 @@
+[
+	{
+		"pers_firstname": "Bernhard",
+		"pers_lastname": "Bohne",
+		"pers_is_active": true,
+		"pers_scope": "admin",
+		"pers_username": "bohnebernhard",
+		"pers_password": "bernhard55",
+		"pers_addresses": [
+			{
+				"address_street_name": "Rudolf-Hanauer-Str.",
+				"address_street_number": "1",
+				"address_zipcode": "82211",
+				"address_city": "Herrsching",
+				"address_country": "Deutschland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "b.bohne@verwaltertraining.de",
+				"email_type": "private",
+				"email_is_receiving": true,
+				"email_notification_time": "9"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "0173-9585 605",
+				"phone_type": "mobile"
+			}
+		]
+	},
+	{
+		"pers_firstname": "Klaus",
+		"pers_lastname": "Wirries",
+		"pers_is_active": true,
+		"pers_scope": "inspector",
+		"pers_username": "wirriesklaus",
+		"pers_password": "klaus51+",
+		"pers_addresses": [
+			{
+				"address_street_name": "Zur Weihersenke",
+				"address_street_number": "21",
+				"address_zipcode": "82211",
+				"address_city": "Hersching",
+				"address_country": "Deutschland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "k.wirries@aufzugwaerter.info",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": "7"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "0152-54895801",
+				"phone_type": "mobile"
+			}
+		]
+	},
+	{
+		"pers_firstname": "Petra",
+		"pers_lastname": "Geyer",
+		"pers_is_active": true,
+		"pers_scope": "inspector",
+		"pers_username": "petrageyer",
+		"pers_password": "petra2017",
+		"pers_addresses": [
+			{
+				"address_street_name": "Fuggerstr.",
+				"address_street_number": "6",
+				"address_zipcode": "86911",
+				"address_city": "Diessen-Obermühlhausen",
+				"address_country": "Deutschland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "p.geyer@hotmail.de",
+				"email_type": "private",
+				"email_is_receiving": true,
+				"email_notification_time": "9"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "0152-54895802",
+				"phone_type": "mobile"
+			}
+		]
+	},
+	{
+		"pers_firstname": "Petra",
+		"pers_lastname": "MANAGER Geyer",
+		"pers_is_active": true,
+		"pers_scope": "manager",
+		"pers_username": "petramanagergeyer",
+		"pers_password": "petram2017",
+		"pers_addresses": [
+			{
+				"address_street_name": "Bahnhofstr.",
+				"address_street_number": "20",
+				"address_zipcode": "82211",
+				"address_city": "Herrsching",
+				"address_country": "Deutschland",
+				"address_type": "work"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "p.geyer@hotmail.de",
+				"email_type": "private",
+				"email_is_receiving": true,
+				"email_notification_time": "9"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "0152-54895802",
+				"phone_type": "mobile"
+			}
+		]
+	},
+	{
+		"pers_firstname": "BIG Hausverwaltung GmbH",
+		"pers_lastname": "zu Hd. Hr. Bohne",
+		"pers_is_active": true,
+		"pers_scope": "owner",
+		"pers_username": "bighausverwaltung",
+		"pers_password": "bighv4000",
+		"pers_addresses": [
+			{
+				"address_street_name": "Bahnhofstr. ",
+				"address_street_number": "20",
+				"address_zipcode": "82211",
+				"address_city": "Herrsching",
+				"address_country": "Deutschland",
+				"address_type": "work"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "b.bohne@big-hausverwaltung.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": "8"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "08152-922660",
+				"phone_type": "work"
+			}
+		]
+	},
+	{
+		"pers_firstname": "Marcus",
+		"pers_lastname": "Beilacher",
+		"pers_is_active": true,
+		"pers_scope": "owner",
+		"pers_username": "marcusbeilacher",
+		"pers_password": "beilacher2020",
+		"pers_addresses": [
+			{
+				"address_street_name": "Bahnhofstr.",
+				"address_street_number": "20",
+				"address_zipcode": "82211",
+				"address_city": "Herrsching",
+				"address_country": "Deutschland",
+				"address_type": "work"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "marcus.beilacher@big-wohnbau.de",
+				"email_type": "work",
+				"email_is_receiving": true,
+				"email_notification_time": "10"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "08152-922815",
+				"phone_type": "work"
+			}
+		]
+	},
+	{
+		"pers_firstname": "Bernhard",
+		"pers_lastname": "Bohne",
+		"pers_is_active": true,
+		"pers_scope": "inspector",
+		"pers_username": "bernhardawbohne",
+		"pers_password": "bernhard51+",
+		"pers_addresses": [
+			{
+				"address_street_name": "Rudolf-Hanauer-Str. ",
+				"address_street_number": "1",
+				"address_zipcode": "82211",
+				"address_city": "herrsching",
+				"address_country": "Deutschland",
+				"address_type": "home"
+			}
+		],
+		"pers_email_addresses": [
+			{
+				"email_address": "b.bohne@verwaltertraining.de",
+				"email_type": "private",
+				"email_is_receiving": true,
+				"email_notification_time": "9"
+			}
+		],
+		"pers_phone_numbers": [
+			{
+				"phone_number": "0173-9585605",
+				"phone_type": "mobile"
+			}
+		]
+	}
+]
